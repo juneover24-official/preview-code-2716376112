@@ -1,7 +1,7 @@
 {
   "qq_number": "2716376112",
   "group_number": "1107602724",
-  "updated_at": "2026-11-13T06:20:27+00:00",
+  "updated_at": "2026-11-13T06:20:48+00:00",
   "skins": [
     {
       "name": "小红书@音符曲の四幸葉",
@@ -9,6 +9,13 @@
       "thumb": "四幸葉融.bds_py_26_light_thumb.png",
       "full": "四幸葉融.bds_py_26_light_thumb.png",
       "file_id": "asset_20ddd8cc04724758873b2de74ad4f705"
+    },
+    {
+      "name": "小红书@音符曲の四幸葉",
+      "file": "四幸葉融.bdi",
+      "thumb": "四幸葉融.bdi_py_26_light_thumb.png",
+      "full": "四幸葉融.bdi_py_26_light_thumb.png",
+      "file_id": "asset_e8fbcb287d9d4f508e8140a21b02ceaa"
     }
   ]
 }
