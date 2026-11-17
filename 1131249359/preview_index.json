@@ -1,6 +1,7 @@
 {
   "qq_number": "2716376112",
   "group_number": "1131249359",
+  "updated_at": "2026-11-17T13:29:24+00:00",
   "skins": [
     {
       "name": "Lacrimosa for <循尘述往>",
@@ -8,7 +9,13 @@
       "thumb": "Lacrimosa彩闷脆.bds_py_26_light_thumb.png",
       "full": "Lacrimosa彩闷脆.bds_py_26_light_thumb.png",
       "file_id": "51372049"
+    },
+    {
+      "name": "Lacrimosa for <循尘述往>",
+      "file": "Lacrimosa水声彩.bds",
+      "thumb": "Lacrimosa水声彩.bds_py_26_light_thumb.png",
+      "full": "Lacrimosa水声彩.bds_py_26_light_thumb.png",
+      "file_id": "51425565"
     }
-  ],
-  "updated_at": "2026-11-17T13:23:24+00:00"
+  ]
 }
